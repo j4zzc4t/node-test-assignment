@@ -1,10 +1,7 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "starter-ws",
+  "name": "node-js-test",
   "version": "0.0.1",
-  "description": "A simple websocket example using the ws node.js library",
+  "description": "A simple UUID microservice using Node.JS Express library",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
@@ -18,6 +15,6 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https://github.com/j4zzc4t/node-test-assignment"
   }
 }
